@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="E:/work_space/java_3.1.15/dctp-cloud-wallet" value="PREVIEW" />
+        <entry key="E:/work_space/java_code_space/hmrjr-otc" value="PREVIEW" />
+        <entry key="E:/work_space/java_code_space/java-admin-dashboard" value="PREVIEW" />
+        <entry key="E:/work_space/java_code_space/java-common" value="PREVIEW" />
+        <entry key="E:/work_space/java_code_space/java-core/dctp-cloud-quick-trade" value="PREVIEW" />
+        <entry key="E:/work_space/java_code_space/java-stats/dctp-cloud-statistic" value="PREVIEW" />
+        <entry key="E:/work_space/java_space/java-common" value="PREVIEW" />
+        <entry key="E:/work_space/java_space/java-core" value="PREVIEW" />
+        <entry key="E:/work_space/java_space/springcloud-quickstart" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
